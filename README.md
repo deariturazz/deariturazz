@@ -11,3 +11,7 @@ Currently, I’m a Developer at IQVIA (formerly IMS Health), a global leader in 
   :point_right:Version Control: Git, GitHub, Bitbucket<br/>
 
 I believe in continuous learning and am constantly exploring new technologies and patterns to improve the development process. Whether it's enhancing performance, implementing new features, or refining existing code, I am committed to delivering clean, maintainable, and scalable solutions.
+
+![](https://komarev.com/ghpvc/?username=deariturazz&abbreviated=true)
+
+Thank you for visiting my profile! 🎉

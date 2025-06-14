@@ -14,4 +14,11 @@ I believe in continuous learning and am constantly exploring new technologies an
 
 ![](https://komarev.com/ghpvc/?username=deariturazz&abbreviated=true)
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deariturazz&show_icons=true&locale=en&layout=compact&theme=dark" alt="deariturazz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deariturazz&show_icons=true&locale=en&theme=dark" alt="deariturazz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deariturazz&theme=dark" alt="deariturazz" /></p>
+
 Thank you for visiting my profile! 🎉

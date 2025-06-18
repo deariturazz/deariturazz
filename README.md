@@ -1,3 +1,8 @@
+<div align="center">
+  <img    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  <h1> Hey there! I'm Rituraj</h1>
+ </div>
+
 I’m a passionate Software Developer with over 8.5 years of hands-on experience in building scalable, high-performance applications using a variety of Microsoft technologies, including .NET, C#, ASP.NET, ASP.NET MVC, MS SQL Server, and HTML. Over the years, I’ve developed a deep understanding of software development principles, focusing on clean code, efficient problem-solving, and building solutions that deliver business value.
 
 **Professional Journey:**<br/>

@@ -24,6 +24,11 @@ I believe in continuous learning and am constantly exploring new technologies an
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deariturazz&show_icons=true&locale=en&theme=dark" alt="deariturazz" /></p>
 
+
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=deariturazz&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
+
+
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deariturazz&theme=dark" alt="deariturazz" /></p> -->
 
 Thank you for visiting my profile! 🎉
